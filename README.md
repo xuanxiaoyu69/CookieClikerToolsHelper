@@ -1,6 +1,10 @@
-<p style="text-align: center">
+<h1 align="center">
     Cookie Cliker Tools Helper
+</h1>
+<p align="center">
+    Cookie Cliker 工具助手，解放你的双手
 </p>
+
 
 ## 使用
 
